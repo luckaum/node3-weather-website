@@ -6,7 +6,7 @@ const express = require('express')
 const hbs = require('hbs')
 
 //Custom modules
-const openWeather = require('../../weather-app/utils/openWeather')
+const openWeather = require('../utils/openWeather')
 
 
 const app = express()
