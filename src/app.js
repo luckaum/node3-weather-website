@@ -1,4 +1,4 @@
-//Core modules
+//Core modul
 const path = require('path')
 
 //npm modules
